@@ -16,36 +16,36 @@ Example I/O:
 4. Print memory
 5. Exit
 
-choice - 1
-Program name - P1
-Program size (KB) - 8
-Program P1 added successfully: 2 page(s) used.
-
-choice - 1
-Program name - P2
-Program size (KB) - 7
-Program P2 added successfully: 2 page(s) used.
-
-choice - 1
-Program name - P3
-Program size (KB) - 9
-Program P3 added successfully: 3 page(s) used. 
-
-choice - 3
-There are 1 fragment(s).
-
-choice - 4
-
-P1 P1 P2 P2 P3 P3  P3  Free
-Free Free Free Free Free Free Free Free
-Free Free Free Free Free Free Free Free
-Free Free Free Free Free Free Free Free
-
-choice - 2 
-Program name - P2
-Program P2 successfully killed, 2 page(s) reclaimed.
-
-choice - 3
-There are 2 fragment(s)
-
-choice - 5
+choice - 1<br/>
+Program name - P1<br/>
+Program size (KB) - 8<br/>
+Program P1 added successfully: 2 page(s) used.<br/>
+<br/>
+choice - 1<br/>
+Program name - P2<br/>
+Program size (KB) - 7<br/>
+Program P2 added successfully: 2 page(s) used.<br/>
+<br/>
+choice - 1<br/>
+Program name - P3<br/>
+Program size (KB) - 9<br/>
+Program P3 added successfully: 3 page(s) used.<br/>
+<br/>
+choice - 3<br/>
+There are 1 fragment(s).<br/>
+<br/>
+choice - 4<br/>
+<br/>
+P1 P1 P2 P2 P3 P3  P3  Free<br/>
+Free Free Free Free Free Free Free Free<br/>
+Free Free Free Free Free Free Free Free<br/>
+Free Free Free Free Free Free Free Free<br/>
+<br/>
+choice - 2<br/>
+Program name - P2<br/>
+Program P2 successfully killed, 2 page(s) reclaimed.<br/>
+<br/>
+choice - 3<br/>
+There are 2 fragment(s)<br/>
+<br/>
+choice - 5<br/>
